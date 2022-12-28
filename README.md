@@ -1,0 +1,3 @@
+# InstagramDownloaderBot
+<p>&nbsp; &nbsp;Этот проект предназначен для скачивания видео и фото из Instagram. Мы знаем, что существует ограничение на отправку локальных файлов телеграмм-боту. Но ограничений на передачу существующих файлов на сервере Telegram нет. Чтобы использовать файлы на сервере, вам нужны их идентификаторы файлов.<br>&nbsp;&nbsp;&nbsp;Мое решение: сохранить файл с URL-адреса, загрузить в телеграмму с помощью юзербота, отправить файл пользователю.<br>&nbsp;&nbsp; Используемые библиотеки: tdligt-java,telegrambots,gson,Java HTTP Client,Lombok.</p>
+<img src="C:\Users\Nodirbek\IdeaProjects\InstagramDownloader\img\telegran.png">
